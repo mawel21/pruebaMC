@@ -12,7 +12,8 @@ Hola, mi nombre es Miguel Castro, tengo 22 años y vivo en Madrid
 - 🌳 Actividades en la montaña, como la escalada o el senderismo.
 
 ## Lo que estudio
-Actualmente estoy cursando un grado superior en Administración de Sistemas en Red. En segundo estoy cursando las siguientes asignaturas:
+Actualmente estoy cursando un grado superior en Administración de Sistemas en Red en el instituto IES Francisco de Quevedo (https://www.educa2.madrid.org/web/centro.ies.quevedo.madrid). 
+En segundo estoy cursando las siguientes asignaturas:
 - Implatación de aplicaciones web
 - Administración de Sistemas Operativos
 - Inglés Profesional
