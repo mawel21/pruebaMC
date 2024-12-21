@@ -1,4 +1,4 @@
-# Esto es la prueba de mi primer repositorio en Github 👋
+# Esto es la prueba de mi primer repositorio en Github
 
 ## Quién soy
 Hola, mi nombre es Miguel Castro, tengo 22 años y vivo en Madrid.
